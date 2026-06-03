@@ -1,0 +1,165 @@
+#EXTM3U
+
+############################
+# SICUANI
+############################
+
+#EXTINF:-1 radio="true" group-title="Sicuani",:: Radio Sicuani : Tu mejor compañía 1360 AM : https://www.radiosicuani.com/
+https://live.radiotv.net.pe/8044/stream
+
+#EXTINF:-1 radio="true" group-title="Sicuani",:: Radio Venus : ¡La radio de la ciudad! 94.1 FM : https://venusradiotv.blogspot.com/
+https://stream-171.zeno.fm/dgu8g0ua2rhvv
+
+############################
+# NOTICIAS
+############################
+
+#EXTINF:-1 radio="true" group-title="Noticias",:: RPP Noticias : Confianza y credibilidad por todos los medios : https://rpp.pe/
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9
+
+#EXTINF:-1 radio="true" group-title="Noticias",:: RPP Cusco : https://rpp.pe/audio/estaciones
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5faee3ccfbde1b56a46461c5
+
+#EXTINF:-1 radio="true" group-title="Noticias",:: RPP Arequipa : https://rpp.pe/audio/estaciones
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5faee17b49c212591e3d223b
+
+#EXTINF:-1 radio="true" group-title="Noticias",:: Radio Exitosa : La voz de los que no tienen voz : http://www.exitosanoticias.pe/
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+
+#EXTINF:-1 radio="true" group-title="Noticias",:: Radio Nacional del Perú : Donde nadie más llega : http://radionacional.com.pe/
+https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+
+#EXTINF:-1 radio="true" group-title="Noticias",:: Radio Santa Rosa : Buenas nuevas en tu vida : https://radiosantarosa.com.pe/
+https://conectperu.com/8256/stream
+
+############################
+# ROMÁNTICA / BALADAS
+############################
+
+#EXTINF:-1 radio="true" group-title="Romántica",:: Radio Felicidad : Me siento bien : https://felicidad.com.pe/
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7
+
+#EXTINF:-1 radio="true" group-title="Romántica",:: La Inolvidable : Tu música del recuerdo : https://www.lainolvidable.pe/
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4
+
+#EXTINF:-1 radio="true" group-title="Romántica",:: Radio Ritmo Romántica : Tu radio de baladas : https://www.ritmoromantica.pe/
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27
+
+#EXTINF:-1 radio="true" group-title="Romántica",:: Radio Corazón : Vive+ : https://corazon.pe/
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f
+
+#EXTINF:-1 radio="true" group-title="Romántica",:: Radio Baladitas : Te llena de amor : https://radiobaladitas.com/
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b7cf1b304a08b3a8c215
+
+
+############################
+# ROCK & POP
+############################
+
+#EXTINF:-1 radio="true" group-title="Rock & Pop",:: Radio Disney : La radio que te escucha : https://pe.radiodisney.com/
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a
+
+#EXTINF:-1 radio="true" group-title="Rock & Pop",:: Radio Oxígeno : Respiramos buena música : https://www.oxigeno.com.pe/
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c
+
+#EXTINF:-1 radio="true" group-title="Rock & Pop",:: Studio 92 : Tu mundo a tu manera : https://www.studio92.com/
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea
+
+#EXTINF:-1 radio="true" group-title="Rock & Pop",:: Radio Planeta : ¡Tu música en inglés! : https://www.planeta.pe/
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e274f40e6b9832e37633
+
+#EXTINF:-1 radio="true" group-title="Rock & Pop",:: Radio Z Rock & Pop : La marca de la buena música : https://zrockandpop.com.pe/
+https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/
+
+#EXTINF:-1 radio="true" group-title="Rock & Pop",:: Radio Mágica : Música del recuerdo en inglés : https://www.radiomagica.pe/
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43
+
+#EXTINF:-1 radio="true" group-title="Rock & Pop",:: La Zona : Te enciende : https://www.lazona.com.pe/
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5
+
+#EXTINF:-1 radio="true" group-title="Rock & Pop",:: Radio Megamix : ¡Tocamos de todo! : https://radiomegamix.pe/
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951
+
+
+############################
+# CUMBIA / TROPICAL
+############################
+
+#EXTINF:-1 radio="true" group-title="Cumbia & Tropical",:: Nueva Q : ¡QQQumbia! : https://www.radionuevaq.pe/
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6839e1f153fcf56d988d5943
+
+#EXTINF:-1 radio="true" group-title="Cumbia & Tropical",:: Radio Karibeña : Sí suena : https://lakaribena.com.pe/
+https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
+
+#EXTINF:-1 radio="true" group-title="Cumbia & Tropical",:: Radio La Kalle : ¡Me gusta! : https://lakalle.com.pe/
+https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
+
+#EXTINF:-1 radio="true" group-title="Cumbia & Tropical",:: Radio Cumbia Mix : ¡Más Música Para Ti!
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f
+
+#EXTINF:-1 radio="true" group-title="Cumbia & Tropical",:: Radio Inca Sat : ¡Mi radio turbo poder! : https://www.oigo.com/incasat/radioenvivo/
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6839e2a7496a0f818c55b3aa
+
+
+############################
+# VARIADO
+############################
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio 1160 : ¡Al rojo vivo! : https://www.radio1160.com.pe/
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radiomar : Salsa de hoy, Salsa de siempre : https://www.radiomar.pe/
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio Moda : ¡Te mueve! : https://www.moda.com.pe/
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6839e1c82cc4c480fcd318dd
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio Panamericana : ¡Lo que el Perú quiere escuchar! : https://www.radiopanamericana.com/
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio Panamericana :: Retro Rock
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b728d982060896866b8a
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio Panamericana :: Latino Refrescante
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b76c6c07d80644b7321f
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio Onda Cero : ¡Te activa! : https://www.ondacero.com.pe/
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio Onda Cero :: Leyendas
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b7aa2d0a19028625b2a7
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio Onda Cero :: VIP
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/65af09faa17967560a0c8de9
+
+#EXTINF:-1 radio="true" group-title="Variado",:: Radio La Nube : La música que marcó tu vida : https://www.radiolanube.com/
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836
+
+
+############################
+# CUSCO
+############################
+
+#EXTINF:-1 radio="true" group-title="Cusco",:: Radio Star Andina
+https://stream-156.zeno.fm/uorodjtad1huv
+
+#EXTINF:-1 radio="true" group-title="Cusco",:: Radio REDE : Evolucionando tus oídos : https://www.radioredeperu.com/
+https://dattavolt.com:7139/;
+
+#EXTINF:-1 radio="true" group-title="Cusco",:: Radio Las Vegas 101.3 FM [Cusco]
+https://panel.innovatestream.pe/7286/stream
+
+#EXTINF:-1 radio="true" group-title="Cusco",:: Radio Sallkantay : La Voz del Sur del Perú : https://radiosalkantaycusco.com/
+https://stream.radiosalkantaycusco.com/7662/stream
+
+#EXTINF:-1 radio="true" group-title="Cusco",:: Rueda de Negocios 96.1 FM : https://ruedadenegocios.com.pe/
+https://panel.innovatestream.pe:10880/stream
+
+#EXTINF:-1 radio="true" group-title="Cusco",:: Radio Sistemas de Cusco
+https://live.radiotv.net.pe:8048/stream
+
+#EXTINF:-1 radio="true" group-title="Cusco",:: Radio Quillabamba : Tu mejor companía : https://www.radioquillabamba.com/
+http://65.60.45.74:5114/;stream/1
+
+#Mg. Edwin Mamani Lopez
+#Elprofedwin. 2026
